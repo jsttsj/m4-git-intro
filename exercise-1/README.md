@@ -11,5 +11,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 
+
 1. Leftover bacon cheeseburger from Red Robins.
 2. A quarter of a can of Sprite. 
